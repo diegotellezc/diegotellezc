@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegotellezc
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning Javascript and React
+- 🌱 React Js, Javascript, HTML, CSS, Tailwind CSS, Git and GitHub
 - 💞️ I’m looking to collaborate on innovational projects
 - 📫 Contact me: diegotellezdev@gmail.com
 
